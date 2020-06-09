@@ -1,5 +1,6 @@
-# just-javascript
+# [Just JavaScript](https://justjavascript.com/)
 
-## Emails!
+1. [Mental Model](./1-mental-model)
+1. [The JavaScript Univers](./2-the-javascript-universe)
 
-- [email x](./email-x)
+
