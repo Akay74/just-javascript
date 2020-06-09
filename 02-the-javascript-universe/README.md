@@ -177,7 +177,6 @@ Even if you already have a decent amount of experience with JavaScript don't ski
 
 Next up we will explore the Primitive Values in more detail. We look at what these different primitive types like numbers and Null have in common, and learn a thing or two about what equality means in JavaScript.
 
-We will also continue to refine our mental model. This module presents a crude sketch — an approximation. We will focus on different parts of the picture and fill them in with more details, like a https://el2.convertkit-mail.com/c/o8u6mnrnqvawu40o42tv/2zi2h9u04re6no/aHR0cHM6Ly93d3cubGlxdWlkd2ViLmNvbS9rYi93aGF0LWlzLWEtcHJvZ3Jlc3NpdmUtanBlZy8= image.
-We will also continue to refine our mental model. This module presents a crude sketch — an approximation. We will focus on different parts of the picture and fill them in with more details, like a [progressive JPEG]() image.
+We will also continue to refine our mental model. This module presents a crude sketch — an approximation. We will focus on different parts of the picture and fill them in with more details, like a [progressive JPEG](https://el2.convertkit-mail.com/c/o8u6mnrnqvawu40o42tv/2zi2h9u04re6no/aHR0cHM6Ly93d3cubGlxdWlkd2ViLmNvbS9rYi93aGF0LWlzLWEtcHJvZ3Jlc3NpdmUtanBlZy8=) image.
 
 These might seem like small steps, but we’re laying the foundation for everything else to come. We’re building the JavaScript universe, together.
