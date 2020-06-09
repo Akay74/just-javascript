@@ -11,8 +11,9 @@
 1. [Prototypes](./09-prototypes)
 
 
-
-
+> All text, images, gifs, code, everything in this repository is created by [Maggie Appleton](https://illustrated.dev/) and [Dan Abramov](https://overreacted.io/).   
+> If you like what you see head over to [justjavascript.com](https://justjavascript.com/) to sign up for their mailing list.  
+> Thank you Maggie & Dan!
 
 
 
