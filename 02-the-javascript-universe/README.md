@@ -91,7 +91,7 @@ At first, all values in the JavaScript cosmos might look the same — bright dot
 
 If we want to check a value’s type, we can ask it with the typeof operator. JavaScript will answer our question with one of the predetermined string values, such as `"number"`, `"string"`, or `"object"`.
 
-![Typeof](./02.4module.png)
+![Typeof](./typeof-telescope.png)
 
 Below are a few examples you can try in the browser console:
 
@@ -113,7 +113,7 @@ console.log(typeof(x => x * 2)); // "function"
 
 You can verify your guess in the browser console.
 
-![Using Typeof](./telescope.gif)
+![Using Typeof](./typeof-telescope.gif)
 Using typeof
 
 Now take another look at the last three examples — this time with close attention to their results. Did you find any of these results surprising? Why?
